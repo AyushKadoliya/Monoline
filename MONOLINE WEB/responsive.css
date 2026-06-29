@@ -1,0 +1,298 @@
+/*=====================================
+Large Devices (1200px)
+=====================================*/
+
+@media (max-width:1200px){
+
+.hero h1{
+    font-size:52px;
+}
+
+section{
+    padding:90px 0;
+}
+
+}
+
+
+/*=====================================
+Laptop (992px)
+=====================================*/
+
+@media (max-width:992px){
+
+.navbar{
+    background:#fff;
+    padding:15px 0;
+}
+
+.navbar-brand{
+    color:#111;
+}
+
+.nav-link{
+    color:#111;
+    margin-left:0;
+    padding:12px 0;
+}
+
+.hero{
+    height:auto;
+    padding:150px 0 100px;
+    text-align:center;
+}
+
+.hero-image{
+    margin-top:60px;
+}
+
+.hero h1{
+    font-size:45px;
+}
+
+.hero p{
+    width:100%;
+}
+
+.about img{
+    margin-bottom:40px;
+}
+
+.about{
+    text-align:center;
+}
+
+.why-us img{
+    margin-bottom:40px;
+}
+
+.counter-box{
+    margin-bottom:40px;
+}
+
+.price-card{
+    margin-bottom:30px;
+}
+
+.team-card{
+    margin-bottom:30px;
+}
+
+.blog-card{
+    margin-bottom:30px;
+}
+
+.footer{
+    text-align:center;
+}
+
+.footer .social-links{
+    justify-content:center;
+}
+
+.footer-links{
+    margin-bottom:30px;
+}
+
+.contact-info{
+    margin-top:50px;
+}
+
+}
+
+
+/*=====================================
+Tablet (768px)
+=====================================*/
+
+@media (max-width:768px){
+
+h1{
+    font-size:38px;
+}
+
+h2{
+    font-size:34px;
+}
+
+.hero{
+    padding-top:130px;
+}
+
+.hero h1{
+    font-size:38px;
+}
+
+.hero p{
+    font-size:15px;
+}
+
+.btn-warning,
+.btn-outline-light{
+    width:100%;
+    margin-bottom:15px;
+}
+
+.section-title p{
+    width:100%;
+}
+
+.service-box{
+    padding:35px 25px;
+}
+
+.feature-box{
+    flex-direction:column;
+    text-align:center;
+}
+
+.counter-box h2{
+    font-size:38px;
+}
+
+.portfolio-item{
+    margin-bottom:20px;
+}
+
+.testimonial-box{
+    padding:20px;
+}
+
+.testimonial-box p{
+    font-size:16px;
+}
+
+.blog-content{
+    padding:25px;
+}
+
+.contact{
+    text-align:center;
+}
+
+.contact iframe{
+    margin-top:35px;
+}
+
+.footer{
+    padding:70px 0 20px;
+}
+
+}
+
+
+/*=====================================
+Mobile (576px)
+=====================================*/
+
+@media (max-width:576px){
+
+section{
+    padding:70px 0;
+}
+
+.hero h1{
+    font-size:30px;
+}
+
+.hero h5{
+    font-size:15px;
+}
+
+.hero p{
+    font-size:14px;
+}
+
+h2{
+    font-size:28px;
+}
+
+h4{
+    font-size:20px;
+}
+
+.service-box{
+    padding:30px 20px;
+}
+
+.service-box i{
+    font-size:45px;
+}
+
+.feature-box{
+    padding:18px;
+}
+
+.counter-box{
+    padding:20px;
+}
+
+.counter-box h2{
+    font-size:32px;
+}
+
+.price-card{
+    padding:30px 20px;
+}
+
+.price-card h1{
+    font-size:42px;
+}
+
+.testimonial-box img{
+    width:90px;
+    height:90px;
+}
+
+.blog-content{
+    padding:20px;
+}
+
+.footer input{
+    margin-bottom:15px;
+}
+
+.scroll-top{
+    width:45px;
+    height:45px;
+    font-size:18px;
+    right:15px;
+    bottom:15px;
+}
+
+}
+
+
+/*=====================================
+Extra Small (400px)
+=====================================*/
+
+@media (max-width:400px){
+
+.hero h1{
+    font-size:26px;
+}
+
+.hero p{
+    font-size:13px;
+}
+
+.btn-warning,
+.btn-outline-light{
+    font-size:15px;
+    padding:12px;
+}
+
+.service-box h4{
+    font-size:20px;
+}
+
+.price-card h1{
+    font-size:36px;
+}
+
+.footer{
+    font-size:14px;
+}
+
+}
